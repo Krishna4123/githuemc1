@@ -1,0 +1,50 @@
+body {
+    background-image:url("D:\hacker2.jpg");
+    color:green;
+}
+  
+  table {
+    margin: 0 auto;
+    width: 50%;
+    border-radius: 10px;
+    border: 1px solid #080808;
+    color:black;
+  }
+  
+  td {
+    width: 25%;
+    padding: 10px;
+    border: 1px solid #333;
+    text-align: center;
+    cursor: pointer;
+    color: #0f0;
+  }
+  
+  td:hover {
+    background-color: #0e0c0c;
+  }
+  
+  .operator {
+    background-color: #f00;
+    color: #fff;
+  }
+  
+  .equals {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #333;
+    font-size: 18px;
+    color: #0f0;
+  }
+  
+  hr {
+    background-color: #333;
+    border: none;
+    height: 1px;
+  }
+  
