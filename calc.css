@@ -1,7 +1,6 @@
 body {
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJd-MN3O0464zFKMUZq9RIEE3ZB7Y2qwVTQ&usqp=CAU");
+    background-image:url("https://img.freepik.com/free-photo/white-notebook-black-data-firewall_1150-1733.jpg?w=1060&t=st=1701692721~exp=1701693321~hmac=0a3cf7c5e1b6e9de30a316b0fe1440063b35e8b7185922ada0d6f4007b6bea73");
     color:rgb(4, 12, 4);
-    background-repeat: no-repeat;
     background-size:cover;
     background-size: contain;
 }
@@ -53,7 +52,4 @@ body {
     border: none;
     height: 1px;
   }
-#equal{
-  text-align: center;
-}
   
