@@ -1,6 +1,9 @@
 body {
-    background-image:url("C:\Users\Dell\OneDrive\Desktop\githubssg\githuemc1\githuemc1\hacker2.jpg");
-    color:green;
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJd-MN3O0464zFKMUZq9RIEE3ZB7Y2qwVTQ&usqp=CAU");
+    color:rgb(4, 12, 4);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-size: contain;
 }
   
   table {
@@ -9,6 +12,9 @@ body {
     border-radius: 10px;
     border: 1px solid #080808;
     color:black;
+  }
+  #display{
+    background-color: #080808;
   }
   
   td {
@@ -47,4 +53,7 @@ body {
     border: none;
     height: 1px;
   }
+equal{
+  text-align: center;
+}
   
